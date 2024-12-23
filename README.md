@@ -16,7 +16,7 @@ Display of products, where customers can navigate through them and select the de
 
 https://github.com/user-attachments/assets/e1fce550-60cf-4da8-92f2-f50ef5582e21
 
-This is where customers can manage the products selected on the Home Page, adding or removing them from the cart and selecting the best estimated delivery date.
+This is where customers can manage the products selected on the Home Page, adding or removing them from the cart and selecting the best estimated delivery option.
 
   3. **Orders**
 
